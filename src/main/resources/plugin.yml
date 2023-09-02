@@ -1,0 +1,4 @@
+name: HappaGUI
+version: '${project.version}'
+main: me.hhappa0.happagui.Main
+api-version: '1.20'
