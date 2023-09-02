@@ -1,5 +1,5 @@
 # HappaGUI
 HappaGUI is an API based plugin to easily make GUIs in your Minecraft plugin.
 
-## Downlaod
-`ss`
+## Download
+Download the plugin <a href="https://youtube.com/">here</a>
